@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navItems{
+    font-size: 18px;
+    color: #fff;
+}
+
+.special{
+    color: yellow;
+}
+
+.unique{
+    color: yellow;
+}
